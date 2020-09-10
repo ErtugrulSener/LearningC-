@@ -1,0 +1,5 @@
+Checking C:\Sources\repos\LearningC++\Utils\log.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
