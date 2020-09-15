@@ -8,8 +8,12 @@
 #include <array>
 #include <map>
 #include <memory>
+#include <variant>
 #include <chrono>
 #include <functional>
+#include <fstream>
+#include <optional>
+#include <any>
 #include <thread>
 #include <algorithm>
 #include <unordered_map>
