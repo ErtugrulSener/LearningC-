@@ -143,6 +143,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "82. Singletons", "82. Singl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "83. SSO - Small string optimization", "83. SSO - Small string optimization\83. SSO - Small string optimization.vcxproj", "{E74F8FA5-1409-4022-BF54-407556947EE9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "84. Track memory allocations", "84. Track memory allocations\84. Track memory allocations.vcxproj", "{E1AA664C-1463-4747-B38D-4F121A80C058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -711,6 +713,14 @@ Global
 		{E74F8FA5-1409-4022-BF54-407556947EE9}.Release|x64.Build.0 = Release|x64
 		{E74F8FA5-1409-4022-BF54-407556947EE9}.Release|x86.ActiveCfg = Release|Win32
 		{E74F8FA5-1409-4022-BF54-407556947EE9}.Release|x86.Build.0 = Release|Win32
+		{E1AA664C-1463-4747-B38D-4F121A80C058}.Debug|x64.ActiveCfg = Debug|x64
+		{E1AA664C-1463-4747-B38D-4F121A80C058}.Debug|x64.Build.0 = Debug|x64
+		{E1AA664C-1463-4747-B38D-4F121A80C058}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1AA664C-1463-4747-B38D-4F121A80C058}.Debug|x86.Build.0 = Debug|Win32
+		{E1AA664C-1463-4747-B38D-4F121A80C058}.Release|x64.ActiveCfg = Release|x64
+		{E1AA664C-1463-4747-B38D-4F121A80C058}.Release|x64.Build.0 = Release|x64
+		{E1AA664C-1463-4747-B38D-4F121A80C058}.Release|x86.ActiveCfg = Release|Win32
+		{E1AA664C-1463-4747-B38D-4F121A80C058}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
