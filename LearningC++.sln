@@ -157,6 +157,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "89. Move semantics", "89. M
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "90. Move Assignment Operator and STL move", "90. Move Assignment Operator and STL move\90. Move Assignment Operator and STL move.vcxproj", "{E08D77D0-FC82-4979-8A48-15F88908A0F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "91. Making your own - ARRAYS", "91. Making your own - ARRAYS\91. Making your own - ARRAYS.vcxproj", "{AEBFAE6F-D76E-4644-8205-521461136C26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -781,6 +783,14 @@ Global
 		{E08D77D0-FC82-4979-8A48-15F88908A0F1}.Release|x64.Build.0 = Release|x64
 		{E08D77D0-FC82-4979-8A48-15F88908A0F1}.Release|x86.ActiveCfg = Release|Win32
 		{E08D77D0-FC82-4979-8A48-15F88908A0F1}.Release|x86.Build.0 = Release|Win32
+		{AEBFAE6F-D76E-4644-8205-521461136C26}.Debug|x64.ActiveCfg = Debug|x64
+		{AEBFAE6F-D76E-4644-8205-521461136C26}.Debug|x64.Build.0 = Debug|x64
+		{AEBFAE6F-D76E-4644-8205-521461136C26}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEBFAE6F-D76E-4644-8205-521461136C26}.Debug|x86.Build.0 = Debug|Win32
+		{AEBFAE6F-D76E-4644-8205-521461136C26}.Release|x64.ActiveCfg = Release|x64
+		{AEBFAE6F-D76E-4644-8205-521461136C26}.Release|x64.Build.0 = Release|x64
+		{AEBFAE6F-D76E-4644-8205-521461136C26}.Release|x86.ActiveCfg = Release|Win32
+		{AEBFAE6F-D76E-4644-8205-521461136C26}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
